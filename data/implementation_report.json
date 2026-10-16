@@ -9,95 +9,95 @@
   "enrollment_rows": 9,
   "issues": [
     {
-      "area": "Data integrity",
       "code": "INACTIVE_ENROLLMENT",
       "severity": "BLOCKER",
       "owner": "Employer HR",
-      "action": "Validate employment and coverage eligibility"
+      "action": "Check status and coverage eligibility",
+      "area": "Data integrity"
     },
     {
-      "area": "Data integrity",
       "code": "MISSING_START_DATE",
       "severity": "BLOCKER",
       "owner": "Employer HR",
-      "action": "Supply verified employment start date"
+      "action": "Supply verified employment start date",
+      "area": "Data integrity"
     },
     {
-      "area": "Data integrity",
       "code": "DUPLICATE_EMPLOYEE",
       "severity": "BLOCKER",
       "owner": "Employer HR",
-      "action": "Confirm authoritative employee ID"
+      "action": "Confirm authoritative employee ID",
+      "area": "Data integrity"
     },
     {
-      "area": "Data integrity",
       "code": "PROVINCE_MISMATCH",
       "severity": "BLOCKER",
       "owner": "Carrier Relations",
-      "action": "Validate provincial plan mapping"
+      "action": "Validate provincial plan mapping",
+      "area": "Data integrity"
     },
     {
-      "area": "Data integrity",
       "code": "UNKNOWN_PLAN",
       "severity": "BLOCKER",
       "owner": "Carrier Relations",
-      "action": "Verify plan identifier"
+      "action": "Verify plan identifier",
+      "area": "Data integrity"
     },
     {
-      "area": "Data integrity",
       "code": "UNKNOWN_EMPLOYEE",
       "severity": "BLOCKER",
       "owner": "Employer HR",
-      "action": "Reconcile employee with authorized roster"
+      "action": "Reconcile employee with authorized roster",
+      "area": "Data integrity"
     },
     {
-      "area": "Data integrity",
       "code": "DEPENDENTS_NOT_CONFIRMED",
       "severity": "REVIEW",
       "owner": "Client implementation",
-      "action": "Confirm dependent information securely"
+      "action": "Confirm dependent information securely",
+      "area": "Data integrity"
     },
     {
-      "area": "Data integrity",
       "code": "MISSING_ENROLLMENT",
       "severity": "REVIEW",
       "owner": "Client implementation",
-      "action": "Confirm waived coverage or missing form"
+      "action": "Confirm waived coverage or missing form",
+      "area": "Data integrity"
     },
     {
-      "area": "Implementation gates",
       "code": "GATE_SIGNED_AUTHORIZATION",
       "severity": "BLOCKER",
       "owner": "Client HR",
-      "action": "Confirm signed authorization with evidence"
+      "action": "Confirm signed authorization with evidence",
+      "area": "Implementation gates"
     },
     {
-      "area": "Implementation gates",
       "code": "GATE_CARRIER_FORMS_READY",
       "severity": "BLOCKER",
       "owner": "Carrier Relations",
-      "action": "Confirm carrier forms ready with evidence"
+      "action": "Confirm carrier forms ready with evidence",
+      "area": "Implementation gates"
     },
     {
-      "area": "Implementation gates",
       "code": "GATE_CLIENT_VALIDATION",
       "severity": "BLOCKER",
       "owner": "Client HR",
-      "action": "Confirm client validation with evidence"
+      "action": "Confirm client validation with evidence",
+      "area": "Implementation gates"
     },
     {
-      "area": "Carrier handoff",
       "code": "CARRIER_DEMO-CARRIER-B",
       "severity": "BLOCKER",
       "owner": "Carrier Relations",
-      "action": "Obtain acknowledgement from DEMO-CARRIER-B"
+      "action": "Obtain acknowledgement from DEMO-CARRIER-B",
+      "area": "Carrier handoff"
     },
     {
-      "area": "HRIS mapping",
       "code": "MAP_STATE",
       "severity": "REVIEW",
       "owner": "Systems / Implementation",
-      "action": "Validate HRIS mapping state"
+      "action": "Validate HRIS mapping state",
+      "area": "HRIS mapping"
     }
   ],
   "by_area": {
