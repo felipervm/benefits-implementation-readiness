@@ -1,0 +1,7 @@
+item,status,evidence_ref
+kickoff_scope,complete,DEMO-KICK-001
+signed_authorization,pending,
+effective_date_approved,complete,DEMO-DATE-001
+carrier_forms_ready,pending,
+platform_mapping_review,complete,DEMO-MAP-001
+client_validation,pending,

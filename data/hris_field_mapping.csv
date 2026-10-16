@@ -1,0 +1,6 @@
+source_system,source_field,illustrative_destination,validation_status
+BambooHR,id,employee_id,verified
+BambooHR,hireDate,first_hire_date,verified
+BambooHR,status,status,verified
+BambooHR,state,residential_province,needs_review
+BambooHR,terminationDate,termination_date,verified

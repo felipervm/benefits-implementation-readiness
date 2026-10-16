@@ -1,0 +1,11 @@
+employee_id,province,status,start_date,end_date
+E001,ON,active,2025-01-10,
+E002,ON,active,2024-11-02,
+E003,BC,active,2026-03-05,
+E004,ON,terminated,2024-06-01,2026-09-20
+E005,QC,active,,
+E006,ON,active,2025-08-15,
+E006,ON,active,2025-08-15,
+E007,ON,active,2026-01-09,
+E008,BC,active,2026-04-12,
+E009,ON,active,2026-02-28,

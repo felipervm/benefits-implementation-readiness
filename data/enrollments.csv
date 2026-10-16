@@ -1,0 +1,10 @@
+employee_id,plan_id,coverage,dependents_confirmed
+E001,P-CORE,individual,yes
+E002,P-CORE,family,no
+E003,P-CORE,individual,yes
+E004,P-CORE,individual,yes
+E005,P-QC,individual,yes
+E006,P-CORE,individual,yes
+E007,P-QC,individual,yes
+E009,P-MISSING,individual,yes
+E999,P-CORE,individual,yes

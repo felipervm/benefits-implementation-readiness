@@ -1,0 +1,3 @@
+plan_id,provinces,coverage_types
+P-CORE,ON|BC,individual|family
+P-QC,QC,individual|family
