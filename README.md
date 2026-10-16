@@ -25,6 +25,8 @@ Ten fictional employee records and nine enrollment records feed the exercise. Th
 
 ## Explore the deliverables
 
+The walkthrough separates the overall launch decision from the filtered action list. Explore the four workstreams, distinguish blockers from review items and inspect the responsible team and next action. The visual design uses original conceptual artwork and self-hosted open fonts; see [visual direction and asset provenance](docs/visual_direction.md).
+
 - **[Executive walkthrough](https://felipervm.github.io/benefits-implementation-readiness/)** — a concise go-live narrative and filterable action register
 - **[Six-tab Excel action workbook](implementation_readiness.xlsx)** — Decision, Action Register, Client Gates, Carrier Handoff, HRIS Mapping, Instructions
 - **[Machine-readable findings](data/implementation_report.json)** and [action-register CSV](data/implementation_actions.csv)
