@@ -1,5 +1,5 @@
 area,code,severity,owner,action
-"Data integrity","INACTIVE_ENROLLMENT","BLOCKER","Employer HR","Validate employment and coverage eligibility"
+"Data integrity","INACTIVE_ENROLLMENT","BLOCKER","Employer HR","Check status and coverage eligibility"
 "Data integrity","MISSING_START_DATE","BLOCKER","Employer HR","Supply verified employment start date"
 "Data integrity","DUPLICATE_EMPLOYEE","BLOCKER","Employer HR","Confirm authoritative employee ID"
 "Data integrity","PROVINCE_MISMATCH","BLOCKER","Carrier Relations","Validate provincial plan mapping"
